@@ -1,0 +1,8 @@
+vec <- c(2, 4, 6, 8, 10)
+sum_vec <- sum(vec)
+mean_vec <- mean(vec)
+prod_vec <- prod(vec)
+cat("Vector elements: ", vec, "\n")
+cat("Sum of vector elements: ", sum_vec, "\n")
+cat("Mean of vector elements: ", mean_vec, "\n")
+cat("Product of vector elements: ", prod_vec, "\n")

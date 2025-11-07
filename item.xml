@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <ID>1</ID>
+    <Name>John</Name>
+    <Age>25</Age>
+    <City>New York</City>
+  </record>
+  <record>
+    <ID>2</ID>
+    <Name>Maria</Name>
+    <Age>30</Age>
+    <City>Los Angeles</City>
+  </record>
+  <record>
+    <ID>3</ID>
+    <Name>Raj</Name>
+    <Age>28</Age>
+    <City>Mumbai</City>
+  </record>
+  <record>
+    <ID>4</ID>
+    <Name>Sara</Name>
+    <Age>22</Age>
+    <City>London</City>
+  </record>
+  <record>
+    <ID>5</ID>
+    <Name>Chen</Name>
+    <Age>27</Age>
+    <City>Beijing</City>
+  </record>
+</records>
